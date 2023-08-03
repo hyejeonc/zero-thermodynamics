@@ -2,9 +2,10 @@
 Study of thermodynamics in absolute zero temperature. 
 
 ### Interesting phenomena in 0 K 
--. Superconductivity 
--. Fracture in porous material
--. Non-linearity in non-equilibrium thermodynamics 
+1. Superconductivity 
+2. Fracture in porous material
+3. Non-linearity in non-equilibrium thermodynamics 
 
-### References 
+### References
+1. 
 
